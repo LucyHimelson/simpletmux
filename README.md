@@ -33,6 +33,7 @@ tumx -t (Name of session)
 tumx kill-session
 ```
 
+
 ## II
 
 ###  creat a new window 

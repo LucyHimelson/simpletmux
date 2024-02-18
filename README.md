@@ -9,7 +9,7 @@
 first thing run command **tumx**
 u will find urself enter tumux seeson, here were u can cook 
 
-## [^1]: I
+##  I [^1]
 
 ### Creat new & name for session
 ```

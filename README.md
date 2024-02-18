@@ -1,7 +1,11 @@
 # simpletumx
 ### This recipe will teach u the basics of tumx. as I guess
 
-okay first thing run command **tumx**
+okay we have two partes 
+ - I before run tumx to enter seesion
+ - II after run tumx and enter session
+
+first thing run command **tumx**
 u will find urself enter tumux seeson, here were u can cook 
 
 ##  creat a new window 

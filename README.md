@@ -9,7 +9,7 @@
 first thing run command **tumx**
 u will find urself enter tumux seeson, here were u can cook 
 
-##  I[^1].
+##  I tumx .
 
 ### Creat new & name for session
 ```
@@ -34,7 +34,7 @@ tumx kill-session
 ```
 
 
-## II
+## II tumx
 
 ###  creat a new window 
 ```
@@ -44,6 +44,10 @@ press (ctrl+b) + c
 ```
 press (ctrl+b) + N°umber of window 
 ```
+### Rename window
+```
+press (ctrl+b) + ,
+```
 ### Creat Horizontal pin
 ```
 press (ctrl+b) + " 
@@ -51,14 +55,6 @@ press (ctrl+b) + "
 ### Creat Vertical pin
 ```
 press (ctrl+b) + %
-```
-###  creat a new window 
-```
-press (ctrl+b) + c
-```
-### Rename window
-```
-press (ctrl+b) + ,
 ```
 ### Move from to another pin
 ```
@@ -72,6 +68,3 @@ holding (ctrl+b) + keyarrows
 ```
 holding (ctrl+b) + d
 ```
-
-
-

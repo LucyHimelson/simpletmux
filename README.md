@@ -6,12 +6,9 @@
  - I before run tumx to enter seesion
  - II after run tumx and enter session
 
-first thing run command **tumx**
-u will find urself enter tumux seeson, here were u can cook 
-
 ##  I tumx .
 
-### Creat new & name for session
+### Create new & name for session
 ```
 tumx new -s (Name of session)
 ```
@@ -28,7 +25,7 @@ tumx rename-session (Name of session)
 tumx -t (Name of session)
 ```
 
-### Delet session
+### Delete session
 ```
 tumx kill-session
 ```
@@ -36,7 +33,7 @@ tumx kill-session
 
 ## II tumx
 
-###  creat a new window 
+###  Create a new window 
 ```
 press (ctrl+b) + c
 ```
@@ -48,11 +45,11 @@ press (ctrl+b) + N°umber of window
 ```
 press (ctrl+b) + ,
 ```
-### Creat Horizontal pin
+### Create Horizontal pin
 ```
 press (ctrl+b) + " 
 ```
-### Creat Vertical pin
+### Create Vertical pin
 ```
 press (ctrl+b) + %
 ```
@@ -60,7 +57,7 @@ press (ctrl+b) + %
 ```
 press (ctrl+b) + keyarrows
 ```
-### Moving pin
+### Move pin
 ```
 holding (ctrl+b) + keyarrows
 ```

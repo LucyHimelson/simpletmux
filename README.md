@@ -8,6 +8,32 @@ okay we have two partes
 first thing run command **tumx**
 u will find urself enter tumux seeson, here were u can cook 
 
+## I
+
+## Creat new & name for session
+```
+tumx new -s (Name of session)
+```
+## Check session
+```
+tumx ls
+```
+## Rename session
+```
+tumx rename-session (Name of session)
+```
+## Back to detached session
+```
+tumx -t (Name of session)
+```
+
+## Delet session
+```
+tumx kill-session
+```
+
+## II
+
 ##  creat a new window 
 ```
 press (ctrl+b) + c
@@ -44,27 +70,6 @@ holding (ctrl+b) + keyarrows
 ```
 holding (ctrl+b) + d
 ```
-## Check session
-```
-tumx ls
-```
-## Back to detached session
-```
-tumx -t (Name of session)
-```
-## Rename session
-```
-tumx rename-session (Name of session)
-```
-## Creat new & name for session
-```
-tumx new -s (Name of session)
-```
-## Delet session
-```
-tumx kill-session
-```
-
 
 
 

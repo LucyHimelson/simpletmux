@@ -2,7 +2,7 @@
 ### This recipe will teach u the basics of tumx. as I guess
 
 > [!NOTE]
-> okay we have two partes 
+> Well we have two parts
  - I before run tumx to enter seesion
  - II after run tumx and enter session
 

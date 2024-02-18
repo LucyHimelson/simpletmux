@@ -1,7 +1,8 @@
 # simpletumx
 ### This recipe will teach u the basics of tumx. as I guess
 
-okay we have two partes 
+> [!NOTE]
+> okay we have two partes 
  - I before run tumx to enter seesion
  - II after run tumx and enter session
 

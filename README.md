@@ -11,63 +11,63 @@ u will find urself enter tumux seeson, here were u can cook
 
 ## I
 
-## Creat new & name for session
+### Creat new & name for session
 ```
 tumx new -s (Name of session)
 ```
-## Check session
+### Check session
 ```
 tumx ls
 ```
-## Rename session
+### Rename session
 ```
 tumx rename-session (Name of session)
 ```
-## Back to detached session
+### Back to detached session
 ```
 tumx -t (Name of session)
 ```
 
-## Delet session
+### Delet session
 ```
 tumx kill-session
 ```
 
 ## II
 
-##  creat a new window 
+###  creat a new window 
 ```
 press (ctrl+b) + c
 ```
-##  Move to another window
+###  Move to another window
 ```
 press (ctrl+b) + N°umber of window 
 ```
-## Creat Horizontal pin
+### Creat Horizontal pin
 ```
 press (ctrl+b) + " 
 ```
-## Creat Vertical pin
+### Creat Vertical pin
 ```
 press (ctrl+b) + %
 ```
-##  creat a new window 
+###  creat a new window 
 ```
 press (ctrl+b) + c
 ```
-## Rename window
+### Rename window
 ```
 press (ctrl+b) + ,
 ```
-## Move from to another pin
+### Move from to another pin
 ```
 press (ctrl+b) + keyarrows
 ```
-## Moving pin
+### Moving pin
 ```
 holding (ctrl+b) + keyarrows
 ```
-## Session dismissal
+### Session dismissal
 ```
 holding (ctrl+b) + d
 ```

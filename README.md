@@ -1,33 +1,33 @@
-# simpletumx
-### This recipe will teach u the basics of tumx. as I guess
+# simpletmux
+### This recipe will teach u the basics of tmux. as I guess
 
 > [!NOTE]
 > Well we have two parts
- - I before run tumx to enter seesion
- - II after run tumx and enter session
+ - I before run tmux to enter seesion
+ - II after run tmux and enter session
 
-##  I tumx .
+##  I tmux .
 
 ### Create new & name for session
 ```
-tumx new -s (Name of session)
+tmux new -s (Name of session)
 ```
 ### Check session
 ```
-tumx ls
+tmux ls
 ```
 ### Rename session
 ```
-tumx rename-session (Name of session)
+tmux rename-session (Name of session)
 ```
 ### Back to detached session
 ```
-tumx -t (Name of session)
+tmux -t (Name of session)
 ```
 
 ### Delete session
 ```
-tumx kill-session
+tmux kill-session
 ```
 
 

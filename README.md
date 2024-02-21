@@ -31,7 +31,7 @@ tmux kill-session
 ```
 
 
-## II tumx
+## II tmux
 
 ###  Create a new window 
 ```
